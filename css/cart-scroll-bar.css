@@ -3,13 +3,13 @@
 }
 
 .cart-content__list::-webkit-scrollbar {
-    width : 6px;
+    width : 4px;
     height: auto;
 }
 
 .cart-content__list::-webkit-scrollbar-thumb {
-    background: #0080ff;
-    border    : 0px none #ffffff;
+    background: #00d0ff;
+    border    : 1px none #ffffff;
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0.00, #bdbbbb), color-stop(1.00, #777));
     background: -webkit-linear-gradient(#bdbbbb, #777);
     background: -moz-linear-gradient(#bdbbbb, #777);
