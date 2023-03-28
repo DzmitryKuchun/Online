@@ -249,7 +249,7 @@ img.mfp-img {
   display: block;
   line-height: 0;
   box-sizing: border-box;
-  padding: 40px 0 40px;
+  padding: 42px 0 42px;
   margin: 0 auto; }
 
 /* The shadow behind the image */
@@ -259,8 +259,8 @@ img.mfp-img {
     content: '';
     position: absolute;
     left: 0;
-    top: 40px;
-    bottom: 40px;
+    top: 42px;
+    bottom: 42px;
     display: block;
     right: 0;
     width: auto;
@@ -271,13 +271,13 @@ img.mfp-img {
   .mfp-figure small {
     color: #BDBDBD;
     display: block;
-    font-size: 12px;
-    line-height: 14px; }
+    font-size: 10px;
+    line-height: 12px; }
   .mfp-figure figure {
     margin: 0; }
 
 .mfp-bottom-bar {
-  margin-top: -36px;
+  margin-top: -34px;
   position: absolute;
   top: 100%;
   left: 0;
@@ -286,10 +286,10 @@ img.mfp-img {
 
 .mfp-title {
   text-align: left;
-  line-height: 18px;
+  line-height: 16px;
   color: #F3F3F3;
   word-wrap: break-word;
-  padding-right: 36px; }
+  padding-right: 34px; }
 
 .mfp-image-holder .mfp-content {
   max-width: 100%; }
@@ -317,7 +317,7 @@ img.mfp-img {
     bottom: 0;
     margin: 0;
     top: auto;
-    padding: 3px 5px;
+    padding: 2px 4px;
     position: fixed;
     box-sizing: border-box; }
     .mfp-img-mobile .mfp-bottom-bar:empty {
@@ -328,9 +328,9 @@ img.mfp-img {
   .mfp-img-mobile .mfp-close {
     top: 0;
     right: 0;
-    width: 35px;
-    height: 35px;
-    line-height: 35px;
+    width: 33px;
+    height: 33px;
+    line-height: 33px;
     background: rgba(0, 0, 0, 0.6);
     position: fixed;
     text-align: center;
